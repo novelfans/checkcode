@@ -10,3 +10,6 @@
 或
 ```./check_code.sh Debug```
 若传Debug实际脚本不起作用
+
+效果：
+
