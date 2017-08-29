@@ -12,4 +12,4 @@
 若传Debug实际脚本不起作用
 
 效果：
-
+![效果图](https://github.com/novelfans/checkcode/blob/master/1.png “效果图”)
