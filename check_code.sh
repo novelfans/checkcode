@@ -11,7 +11,7 @@ if [ "${CONFIGURATION}" == "Debug" -o "$1" == "Debug" ]; then
     # 其他环境这样调用这个脚本: ./xxx.sh Release 或 ./xxx.sh Debug
     echo "Debug不检测退出..."
     exit 0
-if
+fi
 
 echo "==========================================错误信息=========================================="
 #以进程PID命名临时文件
